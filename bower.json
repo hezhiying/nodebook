@@ -1,0 +1,26 @@
+{
+  "name": "nodebook",
+  "authors": [
+    "H <21418592@qq.com>"
+  ],
+  "description": "Admin dashboard and control panel template",
+  "main": "index.html",
+  "keywords": [
+    "css",
+    "js",
+    "html",
+    "template",
+    "admin",
+    "theme",
+    "backend"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hezhiying/nodebook",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
